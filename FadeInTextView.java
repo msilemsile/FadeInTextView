@@ -18,7 +18,7 @@ import java.lang.ref.WeakReference;
 
 /**
  * 渐显textview
- * Created by memebox on 16/8/9.
+ * Created by msilemsile on 16/8/9.
  */
 public class FadeInTextView extends View {
 
